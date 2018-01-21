@@ -1,0 +1,24 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+h1 {
+  color: #991e00;
+  font-size: 40px;
+  text-align: center;
+}
+h2, h3 {
+  color: #444;
+  font-weight: lighter;
+}
+body {
+  margin: 2em;
+}
+body, input[text], button {
+  color: #888;
+}
+#p1 {
+  font-size: 30px;
+}
